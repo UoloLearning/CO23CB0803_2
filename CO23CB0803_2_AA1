@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Tree Plantation Day Out</title>
+    </head>
+    <body>
+        <script>
+            var total_trees = 1001;
+            var tree_type = "Fruit bearing trees"
+            document.write("We have to plant ",total_trees, " trees on our farm");
+            document.write("<br>");
+            document.write("Type of tree is ",tree_type);
+            document.write("<br>");
+            document.write("<br>");       
+
+            document.write("The Datatype of ",total_trees," is : ",typeof(total_trees));
+            document.write("<br>");
+            document.write("The Datatype of ",tree_type," is : ",typeof(tree_type));
+            </script>
+    </body>
+</html>
